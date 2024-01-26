@@ -12,7 +12,7 @@ import texttospeech from '../assets/images/texttospeech.png';
 
 export const projects = [
   {
-    title: 'Chatt Dapp',
+    title: 'Chat Dapp',
     image: gunchat,
     github: 'https://github.com/chaviawasthy/chat-dapp',
     description:
@@ -35,7 +35,7 @@ export const projects = [
   {
     title: 'Text-Speech Convertor',
     image: texttospeech,
-    github: 'https://github.com/teshank2137/fanMerch',
+    github: 'https://github.com/chaviawasthy/texttospeechconv',
     description:
       "A text-to-speech convertor tool made using Google's Web Speech API.",
   },
